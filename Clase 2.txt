@@ -1,3 +1,4 @@
 Este es el repositorio numero 0. 
 Clase 2
 modificacion del archivo remoto
+segunda modificacion desde el repositorio remoto, perteneciente al punto 7
